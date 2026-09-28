@@ -27,5 +27,8 @@
   "type": "module",
   "devDependencies": {
     "vitest": "^5.0.2"
+  },
+  "dependencies": {
+    "eslint": "^10.11.0"
   }
 }
