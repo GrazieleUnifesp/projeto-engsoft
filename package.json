@@ -1,0 +1,27 @@
+{
+  "name": "projeto-engsoft",
+  "version": "1.0.0",
+  "description": "Projeto da disciplina de Engenharia de Software (UNIFESP).",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrazieleUnifesp/projeto-engsoft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrazieleUnifesp/projeto-engsoft/issues"
+  },
+  "homepage": "https://github.com/GrazieleUnifesp/projeto-engsoft#readme",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^5.0.2"
+  }
+}
